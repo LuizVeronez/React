@@ -11,7 +11,7 @@ function Home() {
   return (
     <div>
       <h1>Blog Home
-        nOVOss
+       
       </h1>
       <ul>
         {posts.map(post => (
