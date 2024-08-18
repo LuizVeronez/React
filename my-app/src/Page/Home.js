@@ -10,7 +10,9 @@ const posts = [
 function Home() {
   return (
     <div>
-      <h1>Blog Home</h1>
+      <h1>Blog Home
+        nOVO
+      </h1>
       <ul>
         {posts.map(post => (
           <li key={post.id}>
